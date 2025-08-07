@@ -1,4 +1,4 @@
-Add files via upload
+
 HOW THIS SPORTS QUIZ WORKS 
 
 Each question is stored in a dictionary.
